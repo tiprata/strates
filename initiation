@@ -1,0 +1,27 @@
+Programme initiation au code (aka : faire souffrir nos amis de Strate)
+10h : accueil de Strate
+
+10h - 10h30 : cafe, visite de l'ecole
+
+10h30 - 12h : presentation global du code et initiation HTML/CSS
+            1 - presentation du terminal (commandes shell de base)
+                pwd, ls, cd, mkdir, touch / vim et emacs.
+            2 - Qu'est ce qu'un algo/programme/fonction/variable ?
+            3 - HTML/CSS sur codepen
+                - ils auront une petite liste de ce qu'ils peuvent faire sur leur page
+                (mettre du text, colorer le texte, mettre un fond de page, mettre une photo..)
+
+12h - 13h/13h30 : dejeuner
+
+13h30 - 14h30 : initiation langage C
+            - exercice fait par Timon, guide par nous
+
+Ahhh14h30 - 16h : demonstrations de projets et questions
+        - David : FDF et WOLF3D
+        - Paul : RT et Fillit
+        - Thierry : demonstration de secu
+        - Timon : UI App
+        - Anaelle : Lemin et 42sh
+        - Stephane : Fractol
+        - Eren : corewar
+        - jean : shadertoy (RT), intro ML
